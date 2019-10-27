@@ -1,0 +1,13 @@
+name: shiny-project
+title: shiny-project
+username:
+account: csongdechakraiwut
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1386664
+bundleId: 2541627
+url: https://csongdechakraiwut.shinyapps.io/shiny-project/
+when: 1572211270.80802
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: IBM_hr_Analytics.csv|IBM_hr_analytics.R|Kickstarter-icon.png|kickstarter.R|kickstarter_final.csv|kickstarter_upload.csv|overall.png|R Shiny Visualization Project Presentation.pptx|shiny-cheatsheet.pdf|shiny_datacleaning.R|shiny_graph.R
